@@ -1,7 +1,6 @@
 🍲 Recipe Finder
 
-Um aplicativo simples em HTML, CSS e JavaScript que consome a API pública do TheMealDB
- para buscar receitas a partir de ingredientes informados pelo usuário.
+Um aplicativo simples em HTML, CSS e JavaScript que consome a API pública do TheMealDB para buscar receitas a partir de ingredientes informados pelo usuário.
 O projeto exibe uma lista de receitas e permite visualizar detalhes como categoria, origem, ingredientes, instruções e até o vídeo no YouTube.
 
 🚀 Funcionalidades
@@ -36,10 +35,10 @@ JavaScript (ES6+) → Manipulação do DOM e integração com API.
 
 API TheMealDB → Fornece os dados das receitas.
 
-📁 recupe-finder
-│── index.html       # Estrutura principal
-│── style.css        # Estilos da aplicação
-│── script.js        # Lógica em JavaScript (fetch + renderização)
+📁 recipe-finder
+│── index.html       
+│── style.css        
+│── script.js        
 
 ▶️ Como Usar
 
