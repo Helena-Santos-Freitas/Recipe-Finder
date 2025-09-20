@@ -44,7 +44,7 @@ API TheMealDB → Fornece os dados das receitas.
 ▶️ Como Usar
 
 Clone ou baixe este repositório:
-git clone https://github.com/seu-usuario/receitas-mirabel.git
+git clone https://github.com/Helena-Santos-Freitas/Recipe-Finder
 
 Abra o arquivo index.html no navegador.
 
