@@ -36,6 +36,7 @@ JavaScript (ES6+) → Manipulação do DOM e integração com API.
 API TheMealDB → Fornece os dados das receitas.
 
 📁 recipe-finder
+
 │── index.html       
 │── style.css        
 │── script.js        
